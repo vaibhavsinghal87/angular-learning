@@ -93,6 +93,9 @@ Promises cannot be cancelled.
 - In observable, one operator ‘retry’ can be used to retry whenever needed.  
 Promises cannot be retried. A promise should have access to the original function that returned the promise in order to have a retry capability.
 
+### Refs
+- https://xgrommx.github.io/rx-book/index.html
+
 
 
 
