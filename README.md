@@ -31,6 +31,8 @@ This repo contains bulletpoints and references about *Angular* building blocks
   - https://alligator.io/angular/angular-cli-reference/
 - Update Angular version - https://www.npmjs.com/package/@angular/cli
 - Firebase hosting - https://alligator.io/angular/deploying-angular-app-to-firebase/
+- NgRx - 
+  - https://gist.github.com/btroncone/a6e4347326749f938510
 
 # Angular 2 vs Agular 1
 The core differences and advantages of Angular on Angular 1 are as following - 
