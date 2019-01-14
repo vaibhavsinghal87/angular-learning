@@ -33,6 +33,11 @@ This repo contains bulletpoints and references about *Angular* building blocks
 - Firebase hosting - https://alligator.io/angular/deploying-angular-app-to-firebase/
 - NgRx - 
   - https://gist.github.com/btroncone/a6e4347326749f938510
+  - https://github.com/avatsaev/angular-contacts-app-example
+  - https://github.com/tomastrajan/angular-ngrx-material-starter
+  - https://github.com/maxime1992/pizza-sync
+  - https://github.com/maxime1992/angular-ngrx-starter
+  - https://github.com/Alfresco/alfresco-content-app
 
 # Angular 2 vs Agular 1
 The core differences and advantages of Angular on Angular 1 are as following - 
