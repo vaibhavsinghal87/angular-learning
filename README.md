@@ -14,6 +14,7 @@ This repo contains bulletpoints and references about *Angular* building blocks
   - https://angularexpo.com/
   - https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee
   - https://medium.mybridge.co/angular-open-source-projects-for-the-past-year-v-2018-dba2041e6ff8
+  - https://github.com/Ismaestro/angular7-example-app
 - Angular CLI - https://github.com/angular/angular-cli/wiki
 - Angular Wiki Stories - https://github.com/angular/angular-cli/wiki/stories
 - Angular folder structure - 
